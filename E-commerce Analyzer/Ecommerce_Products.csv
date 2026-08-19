@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Price_Per_Unit,Rating
+P001,Wireless Mouse,Electronics,25.00,4.5
+P002,Gaming Keyboard,Electronics,75.50,4.2
+P003,4K Monitor,Electronics,299.99,4.8
+P004,USB-C Cable,Accessories,15.00,4.0
+P005,Office Chair,Furniture,120.00,4.6
+P006,Desk Lamp,Furniture,35.00,4.3
+P007,Bluetooth Speaker,Electronics,55.00,4.4
+P008,Backpack,Accessories,45.00,4.1
+P009,External SSD,Electronics,110.00,4.7
+P010,Water Bottle,Accessories,20.00,4.2
