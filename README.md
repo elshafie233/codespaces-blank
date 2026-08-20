@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio
+📊 Data Analysis Portfolio
 
 Welcome to my portfolio! This repository contains a collection of data analysis and automation projects built with Python. 
 
@@ -15,8 +15,11 @@ Welcome to my portfolio! This repository contains a collection of data analysis 
 3. *[Weather Analysis](./Weather%20Analysis)*
    * *Description:* Simulates historical weather data, detects temperature anomalies using statistical rules, and plots insights.
 
+4. *[Nebula Express](./Nebula%20Express)*
+   * *Description:* Simulates and aggregates interstellar logistics data, tracks on-time delivery percentages, and visualizes shipping costs across planetary routes.
+
 ---
 
 ## 🛠️ Tech Stack
 * *Language:* Python
-* *Libraries:* Pandas, Matplotlib, etc.
+* *Libraries:* Pandas, NumPy, Matplotlib
